@@ -1,0 +1,22 @@
+#calculadora {
+  width: 40%;
+}
+#NumeroIntroducido {
+  width: 76%;
+  height: 50px;
+  border: 1px solid rgb(11, 139, 112);
+  text-align: right;
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 2em;
+}
+
+.clave {
+  width: 25%;
+  height: 50px;
+  border: 1px solid rgb(11, 139, 112);
+  float: left;
+  text-align: center;
+  line-height: 50px;
+  font-size: 1.5em;
+}
